@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.unicauca.common"/>
+    package="org.unicauca.common">
+
+    <application>
+        <activity android:name=".ui.CommonActivity"></activity>
+    </application>
+
+</manifest>
